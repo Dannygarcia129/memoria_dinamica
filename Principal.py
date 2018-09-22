@@ -1,6 +1,6 @@
 __author__ = 'Daniel Garcia'
 
-from memoria_estatica import *
+from memoria_dinamica import *
 
 
 Panaderia = ['Conchas','Chilindrina','Cuernitos','Pan beso','Rosquetes','Regañadas']
